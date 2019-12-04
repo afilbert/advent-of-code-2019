@@ -1,3 +1,5 @@
+![AoC Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fus-central1-hobbs-tinkering.cloudfunctions.net%2Faoc-badge-2019%3Fuser_id%3D416761)
+
 # Advent of Code 2019
 Advent of Code Challenges, 2019 Edition
 
